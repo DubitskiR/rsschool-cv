@@ -14,6 +14,7 @@ I am eager to get acquainted with JS, HTML, CSS
 * SQL
 ## Code example
 No examples
+print("Hello World!")
 ## Work experience
 No experience
 ## Education
