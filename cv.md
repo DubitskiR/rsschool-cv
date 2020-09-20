@@ -11,6 +11,7 @@ I am eager to get acquainted with JS, HTML, CSS
 * Java
 * Git
 * NodeJs
+* SQL
 ## Code example
 No examples
 ## Work experience
